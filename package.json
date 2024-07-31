@@ -1,6 +1,6 @@
 {
   "name": "@rpateltickets/common",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Purpose:     This npm package contain the middlewares such as error handling, validation and authorization process and other shared files",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
